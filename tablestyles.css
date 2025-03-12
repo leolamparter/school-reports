@@ -27,8 +27,8 @@ table {
 th,
 td {
 	padding: 15px;
-	background-color: rgba(255,255,255,0.2);
-	color: #fff;
+	background-color: #fff;
+	color: #2f2f2f;
 }
 
 th {
@@ -37,7 +37,8 @@ th {
 
 thead {
 	th {
-		background-color: #55608f;
+		background-color: #2f2f2f;
+		color: #fff;
 	}
 }
 
